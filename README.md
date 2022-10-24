@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lgalstyan
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C, C++, intel 64 and IA-32 architecture, Graph Theory
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
